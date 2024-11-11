@@ -1,4 +1,4 @@
-package problems;
+package problems.easy;
 
 public class NumberOfSteps {
     public static void main(String[] args) {
